@@ -10,7 +10,7 @@ An end-to-end Candidate ↔ Job matching system built with structured ML feature
 - Docker + GitHub Actions (deployment-ready)
 
 ## Roadmap
-- Phase 0: Setup ✅
+- Phase 0: Setup 
 - Phase 1: Feature engineering
 - Phase 2: Model training
 - Phase 3: API
