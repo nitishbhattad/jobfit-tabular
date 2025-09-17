@@ -1,0 +1,6 @@
+skill,category,is_core,synonyms
+python,language,1,py
+sql,language,1,
+ml,machine_learning,1,machine learning
+cv,computer_vision,0,computer vision
+

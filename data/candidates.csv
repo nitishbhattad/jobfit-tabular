@@ -1,0 +1,7 @@
+candidate_id,name,years_experience,education_level,location,preferred_remote,domains,core_skills,tools,desired_salary_min,desired_salary_max
+101,Candidate A,2,Bachelors,Hyderabad,1,"Computer Vision;IoT","python;ml;cv","pytorch;opencv",900000,1300000
+102,Candidate B,1,Bachelors,Pune,1,"Finance;Analytics","sql;excel;statistics","excel;powerbi",600000,900000
+candidate_id,name,years_experience,education_level,location,preferred_remote,domains,core_skills,tools,desired_salary_min,desired_salary_max
+101,Candidate A,2,Bachelors,Hyderabad,1,"Computer Vision;IoT","python;ml;cv","pytorch;opencv",900000,1300000
+102,Candidate B,1,Bachelors,Pune,1,"Finance;Analytics","sql;excel;statistics","excel;powerbi",600000,900000
+

@@ -1,0 +1,4 @@
+job_id,title,level,company,location,remote_ok,salary_min,salary_max,domain,core_skills,tools
+1,Data Scientist,Mid,Alpha Analytics,Bengaluru,1,1200000,2000000,E-commerce,"python;sql;statistics;ml;data_viz","pandas;scikit-learn;docker"
+2,ML Engineer,Junior,VissionWorks,Hyderabad,0,900000,1400000,Computer Vision,"python;ml;dl;cv","pytorch;opencv;git"
+
